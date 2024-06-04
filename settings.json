@@ -1,0 +1,16 @@
+{
+    "php.validate.executablePath": "",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.minimap.enabled": false,
+    "svelte.enable-ts-plugin": true,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "vim.smartRelativeLine": true,
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.color": "#a9dc7660",
+    "vim.highlightedyank.duration": 250,
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    
+}

@@ -1,0 +1,46 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key":"alt+n",
+        "command":"explorer.newFile"
+    },    
+    {
+        "key":"alt+d",
+        "command":"deleteFile"
+    },  
+    {
+        "key":"alt+j",
+        "command":"workbench.action.terminal.toggleTerminal"
+    },  
+    {
+        "key":"alt+h",
+        "command":"workbench.action.navigateLeft"
+    },  
+    {
+        "key":"alt+l",
+        "command":"workbench.action.navigateRight"
+    },  
+    {
+        "key":"alt+b",
+        "command":"workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key":"alt+v",
+        "command":"workbench.action.splitEditorRight"
+    },
+    {
+        "key":"g+d",
+        "command":"editor.action.goToTypeDefinition"
+    },
+    {
+        "key":"alt+c",
+        "command":"workbench.action.closeActiveEditor"
+    },
+
+    {
+        "key":"ctrl+shift+n",
+        "command":"explorer.newFolder"
+    },
+
+
+]
